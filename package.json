@@ -1,0 +1,23 @@
+{
+  "name": "register-user",
+  "version": "1.0.0",
+  "description": "API de cadastro de usuário",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurTerozendi/register-user.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurTerozendi/register-user/issues"
+  },
+  "homepage": "https://github.com/ArthurTerozendi/register-user#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
